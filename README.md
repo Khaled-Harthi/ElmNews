@@ -1,6 +1,6 @@
 # Elm News
 
-- This project uses a clean MVVM architecture
+- This project uses MVVM architecture
 - Jetpack Components:
   - Navigation to navigate between different screens
   - Paging to paginate results from db
